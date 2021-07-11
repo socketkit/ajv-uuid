@@ -1,0 +1,26 @@
+{
+  "name": "@socketkit/ajv-uuid",
+  "version": "1.0.1",
+  "description": "Ajv plugin for validating UUID type fields",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yagiz Nizipli <yagiz@nizipli.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ajv": "^8.6.1"
+  },
+  "peerDependencies": {
+    "ajv": "^8.6.1"
+  },
+  "bugs": {
+    "url": "https://github.com/socketkit/ajv-uuid/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "tag": "latest"
+  }
+}
